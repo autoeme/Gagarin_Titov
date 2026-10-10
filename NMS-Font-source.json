@@ -1,0 +1,18 @@
+{
+  "repository": "https://github.com/NMSCD/No-Mans-Sky-Universal-Font",
+  "revision": "5f99c22de433a312b39c09c32c339b521ccd611b",
+  "licence": "OFL-1.1",
+  "modified": false,
+  "files": {
+    "NMSFuturaProBook_Kerned.ttf": {
+      "url": "https://raw.githubusercontent.com/NMSCD/No-Mans-Sky-Universal-Font/5f99c22de433a312b39c09c32c339b521ccd611b/assets/font/NMSFuturaProBook_Kerned/Web-TT/NMSFuturaProBook_Kerned.ttf",
+      "bytes": 247612,
+      "sha256": "08ad168f7fe58780fcb11c9369c9762ab83f30356fe4192ed60050a216a9798b"
+    },
+    "LICENSE.txt": {
+      "url": "https://raw.githubusercontent.com/NMSCD/No-Mans-Sky-Universal-Font/5f99c22de433a312b39c09c32c339b521ccd611b/LICENSE.txt",
+      "bytes": 4379,
+      "sha256": "e77bd97ea16773878878adbf0ac357fe1b355bdf50ca2042580240e0e0eba68c"
+    }
+  }
+}
