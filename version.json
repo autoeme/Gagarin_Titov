@@ -1,7 +1,7 @@
 {
-  "build": 2,
-  "version": "0.0.2",
-  "size": 9074688,
-  "sha256": "5ab6f3b1f53c015a6c5184635ca6a879bb3b9f68f2475386ed5856af9ca7de36",
+  "build": 3,
+  "version": "0.0.3",
+  "size": 2984448,
+  "sha256": "812f0b8049bfbfadb93b02da6b383ec81a33daae2f7caf2f316e6876fa933119",
   "url": "https://raw.githubusercontent.com/autoeme/Gagarin_Titov/main/winmm.dll"
 }
